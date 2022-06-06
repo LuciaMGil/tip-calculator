@@ -18,7 +18,8 @@ h3 {
     margin-top: 20px;
 }
 .btn-primary {
-    
+    background-color:rgb(102, 162, 247);
+    border: rgb(102, 162, 247) ;
     align-content: center;
     margin-top: 20px;
 }
